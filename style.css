@@ -1,0 +1,29 @@
+body
+{
+    text-align: center;
+}
+.link
+{
+    padding-top: 0px;
+    display: inline;
+    color: blue;
+    padding-right: 100px;
+    padding-left: 100px;
+    background-color: mediumspringgreen;
+}
+#Sundaravadivel-photo
+{
+
+}
+h1{
+    font-size: 45px;
+}
+#hello
+{
+    font-size: 30px;
+}
+.links
+{
+    position: fixed;
+}
+
